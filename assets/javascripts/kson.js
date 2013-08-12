@@ -1,1 +1,1 @@
-node_modules/kson/lib/kson.js
+../../node_modules/kson/lib/kson.js
