@@ -1,0 +1,8 @@
+{ "author": "Krake"
+, "name": "KrakeCDN"
+, "version": "0.0.1"
+, "private": true
+, "dependencies": 
+   { "kson": "https://github.com/KrakeIO/kson/tarball/master"
+   }
+}
