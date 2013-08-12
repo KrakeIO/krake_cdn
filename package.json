@@ -4,5 +4,6 @@
 , "private": true
 , "dependencies": 
    { "kson": "https://github.com/KrakeIO/kson/tarball/master"
+   , "sandbox": "https://github.com/KrakeIO/sandbox/tarball/master"
    }
 }
