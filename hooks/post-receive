@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-BARE     = "$HOME/cdn.git"
-NON_BARE = "$HOME/cdn"
+WWW="$HOME/cdn"
+which npm || $HOME/.nvm/nvm.sh
 
-cd "$NON_BARE" && git pull && npm install
+GIT_WORK_TREE="$WWW" git checkout -f
+cd "$WWW" && npm install
