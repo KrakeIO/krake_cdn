@@ -3,4 +3,4 @@
 BARE     = "$HOME/cdn.git"
 NON_BARE = "$HOME/cdn"
 
-cd "$NON_BARE" && git pull
+cd "$NON_BARE" && git pull && npm install
