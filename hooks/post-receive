@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
 WWW="$HOME/cdn"
+which npm || ./$HOME/.nvm/nvm.sh
 
 GIT_WORK_TREE="$WWW" git checkout -f
 cd "$WWW" && npm install
