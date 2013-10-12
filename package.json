@@ -5,6 +5,5 @@
 , "dependencies": 
    { "kson": "https://github.com/KrakeIO/kson/tarball/master"
    , "sandbox": "https://github.com/KrakeIO/sandbox/tarball/master"
-   , "ace-builds": "https://github.com/KrakeIO/ace-builds/tarball/master"
    }
 }
